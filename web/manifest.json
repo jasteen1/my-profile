@@ -1,11 +1,11 @@
 {
-    "name": "dasa_unit5_exercise",
-    "short_name": "dasa_unit5_exercise",
+    "name": "Justine Luis Dasa",
+    "short_name": "Justine",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Justine Luis Dasa's personal profile app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
